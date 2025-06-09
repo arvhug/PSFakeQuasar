@@ -1,10 +1,7 @@
 # PSFakeQuasar :comet: :syringe: :stars: :dart: 
 
-> **"Not all quasars are real... but yours can be!"**  
-
-
-Tools for PSF modelling, injection, and photometry.
-Tailored to the Euclid survey.
+> **"Source Injector and assorted PSF tools"**  
+Tailored to the Euclid survey will generalise in the future.
 
 ## Local Installation
 ```bash
@@ -16,6 +13,8 @@ python -c "from PSFakeQuasar import inject_quasar; print('Success!')"
 
 
 ## Usage
+
+Data required: Science image, PSF, Flux of Source
 
 ```python
 from PSFakeQuasar import inject_quasar, load_psf
