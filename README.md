@@ -15,6 +15,8 @@ python -c "from PSFakeQuasar import inject_quasar; print('Success!')"
 ```
 
 
+## Usage
+
 ```python
 from PSFakeQuasar import inject_quasar, load_psf
 
