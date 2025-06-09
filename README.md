@@ -8,7 +8,7 @@ Tailored to the Euclid survey will generalise in the future.
 git clone https://github.com/arvhug/PSFakeQuasar.git
 cd PSFakeQuasar
 pip install -e .
-python -c "from PSFakeQuasar import inject_quasar; print('Success!')"
+python -c "from PSFakeQuasar import psfInjection; print('Success!')"
 ```
 
 
