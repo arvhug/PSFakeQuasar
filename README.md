@@ -1,4 +1,4 @@
-# PSFakeQuasar :comet: :syringe: :stars :dart: 
+# PSFakeQuasar :comet: :syringe: :stars: :dart: 
 
 > **"Not all quasars are real... but yours can be!"**  
 
