@@ -6,6 +6,13 @@
 Tools for PSF modelling, injection, and photometry.
 Tailored to the Euclid survey.
 
+## Local Installation
+```bash
+git clone https://github.com/arvhug/PSFakeQuasar.git
+cd PSFakeQuasar
+pip install -e .
+python -c "from PSFakeQuasar import inject_quasar; print('Success!')"
+```
 
 
 ```python
